@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+#head h1{
+ text-align: center;
+  color: red;
+  font-size: 4.5rem;
+   font-family: 'Berkshire Swash', cursive;
+
+  
+}
+#para{
+  margin-left: 5rem;
+  margin-right: 5rem;
+  font-family: 'Berkshire Swash', cursive;
+  color: red;
+  font-size: 1.5rem;
+}

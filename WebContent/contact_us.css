@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+.img{
+  background: url(images/back50.jpg) no-repeat;
+   -webkit-background-size: cover;
+  background-size: cover;
+  height: 40vh;
+ 
+}
+#head h1{
+ text-align: center;
+  color:darkblue;
+  font-family: 'Berkshire Swash', cursive;
+   font-size: 5.5rem ;
+  margin-top: 9rem;
+  
+}
+#head h2{
+  text-align: center;
+  color:darkblue;
+  font-family: 'Berkshire Swash', cursive;
+   font-size: 4.5rem ;
+  margin-top: 5rem;
+ 
+}

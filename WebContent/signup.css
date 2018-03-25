@@ -1,0 +1,129 @@
+body{
+  background: url(images/back13.jpg) no-repeat;
+  background-size: cover;
+}
+
+#aa{
+  font-family: 'Berkshire Swash', cursive;
+  width: 70rem;
+  height:65rem;
+  background-color: rgba(0,0,0,0.6);
+  margin: 0 auto;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  padding-left: 15rem;
+  border-radius: 5rem;
+  -webkit-border-radius: 5rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:5rem; 
+  color: white;
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+#aa input[type="text"]
+{
+    margin-top: 3rem;
+  margin-bottom: 3rem;
+  color: black;
+  width: 22rem;
+  height: 4rem;
+  padding-left: 2rem;
+  border: 0;
+  font-size: 2rem;
+  border-radius: 2rem;
+  -webkit-border-radius: 2rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:2rem;
+}
+
+#aa input[type="password"]
+{
+  font-size: 2rem;
+  color: black;
+     margin-top: 3rem;
+  margin-bottom: 3rem;
+  width: 22rem;
+  height: 4rem;
+  padding-left: 2rem;
+  border: 0;
+  border-radius: 2rem;
+  -webkit-border-radius: 2rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:2rem;
+}
+#aa input[type="submit"]
+{
+  float:right;
+  width: 7rem;
+  height: 3rem;
+  border: 0;
+   margin-bottom: 3rem;
+  margin-left: rem;
+  border-radius:2rem;
+  -webkit-border-radius: 2rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:2rem;
+background-color: salmon;
+  font-size: 2rem;
+  color: black;
+}
+#aa h2{
+ color:white;
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  margin-top:1rem;
+  
+  
+}
+#aa input[type="phone"]
+{
+  font-size: 1rem;
+  color: black;
+  width: 22rem;
+  height: 4rem;
+  padding-left: 2rem;
+  border: 0;
+  border-radius: 2rem;
+     margin-top: 2rem;
+  margin-bottom: 2rem;
+  -webkit-border-radius: 2rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:2rem;
+}
+
+
+#aa input[type="mail"]
+{
+   font-size: 1rem;
+      margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: black;
+  width: 22rem;
+  height: 4rem;
+  padding-left: 2rem;
+  border: 0;
+  border-radius: 2rem;
+  -webkit-border-radius: 2rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:2rem;
+}
+
+#form{
+  margin-top: 2rem;
+}
+
+#aa input[type="address"]
+{
+   font-size: 1rem;
+  color: black;
+  width: 22rem;
+  height: 4rem;
+  padding-left: 2rem;
+  border: 0;
+  border-radius: 2rem;
+   margin-top: 2rem;
+  margin-bottom: 2rem;
+  -webkit-border-radius: 2rem;
+  -o-border-radius:2rem;
+  -moz-border-radius:2rem;
+}

@@ -1,0 +1,125 @@
+#navigation{
+  background:black ;
+  
+}
+#body{
+  background: lightpink;
+  
+  
+}
+#navigation li a{
+  color: red;
+  font-size: 2rem;
+}
+.welcome {
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;
+  color: red;
+ 
+}
+.welcome h1{
+  font-size: 7rem;
+  
+}
+.welcome p{
+  font-size: 3rem;
+}
+#navigation ul li{
+  line-height: 3rem;
+  text-align: center;
+  margin-right: 1rem;
+  box-shadow: 0px 0px 0px 0px black;
+   font-family: 'Berkshire Swash', cursive;;
+  background-color:black; 
+}
+ul li a{
+  display: block;
+  text-decoration: none;
+}
+#navigation ul li a:hover{
+  background-color: darkgrey;
+}
+#navigation ul ul {
+  
+  display: none;
+  
+}
+#navigation ul li:hover > ul
+{
+  display: block;
+}
+
+#outerbox{
+  width: 1000px;
+  overflow: hidden;
+  margin-left: rem;
+}
+
+
+#sliderbox{
+  position: relative;
+  width: 10000px;
+  animation-name: slideranimation;
+  animation-duration: 25s;
+  animation-iteration-count: infinite;
+  float: center;
+  margin-left:rem
+}
+#sliderbox img{
+  float: left;
+  
+}
+
+@keyframes slideranimation{
+  0%{
+    left:-0px;
+  }
+  10%
+  {
+    left: -1000px;
+  }
+  20%
+  {
+    left: -2000px;
+  }
+  30%
+  {
+    left: -2000px;
+  }
+  40%
+  {
+    left: -3000px;
+  }
+  50%
+  {
+    left: -4000px;
+    
+  }
+  60%{
+    left: -5000px;
+  }
+  70%
+  {
+    left: -6000px;
+  }
+  80%
+  {
+    left: -7000px;
+  }
+  90%
+  {
+    left: -8000px;
+  }
+  100%
+  {
+    left: -9000px;
+  }
+  
+}
+#outerbox
+{
+  
+ margin-left: 2rem;
+  margin-right: 5rem;
+ 
+}

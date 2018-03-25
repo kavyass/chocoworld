@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+.background{
+  background: url(images/back4.jpg) no-repeat ;
+  -webkit-background-size: cover;
+  background-size: cover;
+ width: 100%;
+  
+}
+
+#navigation li a{
+  color: red;
+ font-family: 'Berkshire Swash', cursive;
+   font-size: 2.5rem ;
+}
+
+#heading{
+  color: white;
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
+  
+  
+}
+#heading h1{
+  font-size: 8rem;
+  margin-top: 9rem
+}
+#heading h2{
+  font-size: 4rem;
+}
+#btn{
+  font-size: 2rem;
+  margin-top: 2rem;
+  color: red;
+}
